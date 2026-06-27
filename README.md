@@ -35,7 +35,7 @@ Originally designed for internal use, the application can be adapted for any use
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology              | Purpose                   |
 | ----------------------- | ------------------------- |
