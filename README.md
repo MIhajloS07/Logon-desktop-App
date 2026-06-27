@@ -51,7 +51,7 @@ Originally designed for internal use, the application can be adapted for any use
 
 ---
 
-## 🧱 Database Structure
+##  Database Structure
 
 ### Users
 
@@ -74,7 +74,7 @@ Originally designed for internal use, the application can be adapted for any use
 
 ---
 
-## ⚙️ Database Setup
+## Database Setup
 
 1. Open **SQL Server Management Studio (SSMS)**
 2. Run the script located in:
@@ -92,7 +92,7 @@ Integrated Security=True;
 
 ---
 
-## 🌦️ OpenWeather API Integration
+## OpenWeather API Integration
 
 The application integrates with the OpenWeather API to display live weather data.
 
@@ -152,7 +152,7 @@ git clone https://github.com/MIhajloS07/Logon-FullStack-App.git
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 ![license](https://img.shields.io/badge/license-MIT-green?style=flat)
